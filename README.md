@@ -31,3 +31,7 @@ chmod +x setup.sh
 - `$SITE_NAME` - site domain e.g. *ashiba.ninja*
 
 4. ✅ Done, try your new local website on *$SITE_NAME* you passed to the `setup.sh` script. Now you can freely install whatever you need for your development, the sky is the limit ~ Happy coding, Ninja! 🥷
+
+## 👏 Credits
+
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
