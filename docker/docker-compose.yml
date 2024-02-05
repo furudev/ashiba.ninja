@@ -1,5 +1,5 @@
 version: '3.9'
-name: ashiba_ninja
+name: site_name
 
 services:
   php:
